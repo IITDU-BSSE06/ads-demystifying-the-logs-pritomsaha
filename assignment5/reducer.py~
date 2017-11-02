@@ -6,3 +6,6 @@ for line in sys.stdin:
 	unique_files.add(file_path)
 
 print "number of unique files are: "+str(len(unique_files))+"\n"
+#print "unique files are\n"
+#for f in unique_files:
+#	print f
